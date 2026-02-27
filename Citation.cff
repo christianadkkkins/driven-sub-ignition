@@ -1,0 +1,13 @@
+This file allows other researchers to properly attribute your implementation of the symplectic PIC engine.
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Adkins"
+    given-names: "Christian"
+title: "Symplectic Differentiable Plasma Reactor Engine"
+version: 1.0.0
+date-released: 2026-02-26
+license: MIT
+repository-code: "https://github.com/christianadkkkins/driven-sub-ignition"
